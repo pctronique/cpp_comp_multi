@@ -7,9 +7,9 @@ project(COMP_ALL)
 SET(CMAKE_BUILD_TYPE Debug)
 # SET(CMAKE_BUILD_TYPE Release)
 
-set(EXECUTABLE_OUTPUT_PATH ${COMP_ALL_SOURCE_DIR}/bin)
+set(EXECUTABLE_OUTPUT_PATH ${COMP_ALL_SOURCE_DIR}/../bin)
 
-set(COMP_ALL_SRCS hello.cpp)
+set(COMP_ALL_SRCS ../hello.cpp)
 
 set(MY_PROGRAM hello_test)
 

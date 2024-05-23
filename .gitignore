@@ -8,3 +8,5 @@
 /project/win/build/
 /project/win/dist/
 /project/win/bin/
+/project/linux/CMakeLists_def.txt
+/project/win/CMakeLists_def.txt
