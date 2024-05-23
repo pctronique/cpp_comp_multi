@@ -1,3 +1,10 @@
 /.env
 /project/build/
 /project/dist/
+/project/bin/
+/project/linux/build/
+/project/linux/dist/
+/project/linux/bin/
+/project/win/build/
+/project/win/dist/
+/project/win/bin/
